@@ -1,0 +1,6 @@
+{
+  "name": "Gourmet Luanda Delivery",
+  "description": "Alta gastronomia e serviço de entrega premium em Luanda, Angola. Cardápio refinado, rastreio ao vivo e gestão de links diretos de imagens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
